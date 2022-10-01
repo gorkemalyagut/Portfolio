@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/gorkemalyagut/Portfolio.git/static/css/main.94c721c4.css",
-    "main.js": "/gorkemalyagut/Portfolio.git/static/js/main.19549eb4.js",
-    "static/js/787.67b99310.chunk.js": "/gorkemalyagut/Portfolio.git/static/js/787.67b99310.chunk.js",
-    "static/media/logo-g.png": "/gorkemalyagut/Portfolio.git/static/media/logo-g.23aac8716cf2cbb53e9e.png",
-    "static/media/Görkem_ALYAGUT.pdf": "/gorkemalyagut/Portfolio.git/static/media/Görkem_ALYAGUT.75e58550c6d6019d4162.pdf",
-    "static/media/helvetica-neu.ttf": "/gorkemalyagut/Portfolio.git/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff": "/gorkemalyagut/Portfolio.git/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
-    "static/media/logo_sub.png": "/gorkemalyagut/Portfolio.git/static/media/logo_sub.3f250c3770ae3ba5f368.png",
-    "static/media/LaBelleAurore.woff2": "/gorkemalyagut/Portfolio.git/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/CoolveticaRg-Regular.woff": "/gorkemalyagut/Portfolio.git/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
-    "static/media/CoolveticaRg-Regular.woff2": "/gorkemalyagut/Portfolio.git/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/gorkemalyagut/Portfolio.git/index.html",
-    "main.94c721c4.css.map": "/gorkemalyagut/Portfolio.git/static/css/main.94c721c4.css.map",
-    "main.19549eb4.js.map": "/gorkemalyagut/Portfolio.git/static/js/main.19549eb4.js.map",
-    "787.67b99310.chunk.js.map": "/gorkemalyagut/Portfolio.git/static/js/787.67b99310.chunk.js.map"
+    "main.css": "/gorkemalyagut/Portfolio/static/css/main.ca556b5a.css",
+    "main.js": "/gorkemalyagut/Portfolio/static/js/main.42813a09.js",
+    "static/js/787.67b99310.chunk.js": "/gorkemalyagut/Portfolio/static/js/787.67b99310.chunk.js",
+    "static/media/logo-g.png": "/gorkemalyagut/Portfolio/static/media/logo-g.23aac8716cf2cbb53e9e.png",
+    "static/media/Görkem_ALYAGUT.pdf": "/gorkemalyagut/Portfolio/static/media/Görkem_ALYAGUT.75e58550c6d6019d4162.pdf",
+    "static/media/helvetica-neu.ttf": "/gorkemalyagut/Portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/gorkemalyagut/Portfolio/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/logo_sub.png": "/gorkemalyagut/Portfolio/static/media/logo_sub.3f250c3770ae3ba5f368.png",
+    "static/media/LaBelleAurore.woff2": "/gorkemalyagut/Portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff": "/gorkemalyagut/Portfolio/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/CoolveticaRg-Regular.woff2": "/gorkemalyagut/Portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/gorkemalyagut/Portfolio/index.html",
+    "main.ca556b5a.css.map": "/gorkemalyagut/Portfolio/static/css/main.ca556b5a.css.map",
+    "main.42813a09.js.map": "/gorkemalyagut/Portfolio/static/js/main.42813a09.js.map",
+    "787.67b99310.chunk.js.map": "/gorkemalyagut/Portfolio/static/js/787.67b99310.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.94c721c4.css",
-    "static/js/main.19549eb4.js"
+    "static/css/main.ca556b5a.css",
+    "static/js/main.42813a09.js"
   ]
 }
